@@ -1,2 +1,13 @@
-# Desmos_Data_ETL
-This repo is a Juper notebook designed to extract a CSP file from Desmos assessments, transform the data into a more usable format for analysis, and then load it back out as a new CSV file to be imported into a spreadsheet software of your choosing.
+# Desmos Assessment CSV Transformer
+
+This Jupyter notebook is designed to transform CSV files exported from Desmos assessments into a cleaner format, making it easier for further analysis and processing in various spreadsheet software.
+
+## Features
+
+- **CSV Transformation**: Effectively transforms the original CSV file to remove unnecessary data and streamline the content for better usability.
+
+- **Clean Output**: Outputs a new cleaned CSV file that can be easily imported into any spreadsheet software for additional processing and analysis.
+
+- **Compatibility**: The cleaned CSV file is compatible with a variety of software, ensuring seamless integration into your data workflows.
+
+This notebook provides a straightforward solution for refining Desmos assessment data, allowing you to focus on analysis without the clutter of irrelevant information.
