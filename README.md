@@ -1,4 +1,4 @@
-# Desmos Assessment CSV Transformer
+# Desmos Assessment CSV ETL
 
 This Jupyter notebook is designed to transform CSV files exported from Desmos assessments into a cleaner format, making it easier for further analysis and processing in various spreadsheet software.
 
